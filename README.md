@@ -52,3 +52,7 @@ A real-time 3D configurator for steel entrance doors and fire doors. A salespers
 Muhammed Ökmen · [github.com/okmen1306](https://github.com/okmen1306) · okmen1306@gmail.com
 
 Screenshots and video © 2026 Muhammed Ökmen. All rights reserved.
+
+## License
+
+Copyright © 2026 Muhammed Okmen. All rights reserved. The code is shared for viewing only; see [LICENSE](LICENSE).
